@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"hero_skill_bottom","texture":"47iV8/m+FBircWWqDvDAaw","rect":[2,2,49,65],"offset":[0,0],"originalSize":[49,65],"capInsets":[13,13,13,13]}},{"__type__":"cc.SpriteAtlas","_name":"common_uncompress_sanguo.plist","_spriteFrames":{"hero_skill_bottom":{"__uuid__":"33/jeVq1VMea1EWJ/AVAfu"}}}]

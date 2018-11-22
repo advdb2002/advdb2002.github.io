@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"ani_damage","_duration":0.08333333333333333,"speed":0.1,"curveData":{"paths":{"label_txt":{"props":{"y":[{"frame":0,"value":0},{"frame":0.08333333333333333,"value":120}],"opacity":[{"frame":0,"value":255},{"frame":0.08333333333333333,"value":0}]}}}}}
